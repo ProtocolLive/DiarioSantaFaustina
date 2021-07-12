@@ -1,0 +1,35 @@
+Novembro
+vitorias: 53
+quedas: 2
+
+Dezembro
+vitorias: 104
+quedas: -
+
+Janeiro
+vitorias: 78
+quedas: 1
+
+Fevereiro
+vitorias: 59
+quedas: 1
+
+Março
+vitorias: 50
+
+Abril
+vitorias: 60
+
+Maio
+
+Junho
+
+Julho
+
+Agosto
+
+Setembro
+
+Outubro
+
+Diário de Santa Faustina, 1353
